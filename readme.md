@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello my name is Sondre Fosså, im currently studying Artificial Intelligence at the University of Bergen<br>My current main projects are HiveLink - a daily compound word puzzle game and node - a website for the student organisation "node"
+I'm most proficcient with game developement in godot and am currently learning web dev with next-js and react.
 
 
 ## 🌐 Socials:
